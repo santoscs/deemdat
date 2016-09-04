@@ -1,0 +1,13 @@
+Package: deemd
+Title: Denoising with Ensemble Empirical Mode Decomposition
+Version: 0.0.0.9000
+Authors@R: person("Cristiano", "Santos", email = "cristiano1br@gmail.com", role = c("aut", "cre"))
+Description: Remove o ruido de series temporais com o metodo decomposicao em
+    modos empiricos conjuntos (eemd).
+Depends:
+    R (>= 3.3.1)
+License: file LICENSE
+LazyData: true
+RoxygenNote: 5.0.1
+Imports: EMD,
+    Rlibeemd
