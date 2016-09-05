@@ -1,2 +1,2 @@
-# deemd
-Denoising with Ensemble Empirical Mode Decomposition
+# deemdat
+Denoising with Ensemble Empirical Mode Decomposition and Adaptive Thresholding
